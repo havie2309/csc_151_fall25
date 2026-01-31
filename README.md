@@ -1,6 +1,7 @@
 # CSC-151 - Functional Problem Solving
 
 A lab-based introduction to basic ideas of computer science, including recursion, abstraction, scope and binding, data, the design and analysis of algorithms, and the fundamentals of programming in a high-level, functional language. Includes formal collaborative and laboratory work. Final project at the end.
+
 Syllabus: [CSC-151 Syllabus — Fall 2025](https://eikmeier.sites.grinnell.edu/csc-151-fall-2025/syllabus/)
 
 ## Course overview
